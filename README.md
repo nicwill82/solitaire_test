@@ -1,4 +1,4 @@
-# solitaire_test
+# this is not complete please only use if you are wanting to improve on the code 
 
 # Solitaire Game
 
